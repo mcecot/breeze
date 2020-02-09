@@ -4,7 +4,7 @@ end
 
 __breeze_variables
 
-function __git_add -a var
+function __git_reset -a var
     set toplevel (git rev-parse --show-toplevel)
 
     # is numeric 
