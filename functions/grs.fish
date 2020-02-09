@@ -1,7 +1,3 @@
-function grs
-    git reset --
-end
-
 __breeze_variables
 
 function __git_reset -a var
